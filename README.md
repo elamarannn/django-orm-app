@@ -10,15 +10,18 @@ Include your ER diagram here
 
 ## DESIGN STEPS
 
-### STEP 1:An Django application is created inside dataproject folder.
+### STEP 1:
+An Django application is created inside dataproject folder.
 
-### STEP 2:A python program is written to create a table to store and retrieve data.
+### STEP 2:
+A python program is written to create a table to store and retrieve data.
 
 The table is created with 4 fields in which on of the field is PrimaryKey.
 
 Then the project files migrated. A superuser is also created.
 
-### STEP 3:Now the server side program is executed .
+### STEP 3:
+Now the server side program is executed .
 
 The admin page of our website is accessed using username and password.
 
