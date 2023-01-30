@@ -45,9 +45,8 @@ class EmployeeAdmin(admin.ModelAdmin):
     ```
 Include your code here
 
-### output 
-[OUTPUT](./orm1.png)
-Include the screenshot of your admin page.
+## OUTPUT
+![OUTPUT](./orm1.png)
 
 
-### RESULT
+## RESULT
