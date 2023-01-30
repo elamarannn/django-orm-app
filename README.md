@@ -50,4 +50,4 @@ Include your code here
 
 
 ## RESULT
-
+Thus a Django application is successfully developed to store and retrieve data from a database using Object Relational Mapping(ORM).
